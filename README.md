@@ -150,13 +150,9 @@ https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/611e07f9-c8cf-439e-a
 
 ## Advanced Stencil Techniques for Portals
 
-//TODO:
-
 This shader creates a portal effect using stencil buffers, where entering one portal visually and seamlessly leads to exiting another.
 
-**Assignment Video:** [Watch the video](http://link-to-the-video)
-
-**Description:** [Read the description](http://link-to-the-description)
+https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/0c4a3fe0-86df-481d-aad9-fcbabc760f2d
 
 ## ZTest and ZWrite for X-Ray Vision
 
