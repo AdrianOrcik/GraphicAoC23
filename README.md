@@ -104,13 +104,7 @@ https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/eaf6d629-d2cb-4777-b
 
 ## Sunset Horizon
 
-//TODO:
 
-This shader simulates a sunset horizon with a dynamic gradient effect and light scattering.
-
-**Assignment Video:** [Watch the video](http://link-to-the-video)
-
-**Description:** [Read the description](http://link-to-the-description)
 
 ## Star Twinkling
 
