@@ -6,7 +6,7 @@
 2. [Water Ripple Effect](#water-ripple-effect) ✅
 3. [Basic Light Shader](#basic-light-shader) ✅
 4. [Outline Shader](#outline-shader) ✅
-5. [Pulse Effect](#pulse-effect) ✅
+5. [Pulse Outline](#pulse-outline) ✅
 6. [Frosted Glass](#frosted-glass) ✅
 7. [Rainbow Shader](#rainbow-shader) ✅
 8. [Simple Wave](#simple-wave) ✅
@@ -57,7 +57,7 @@ Shader generates vertex-based outlines around 2D sprites.
 
 https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/9341e809-17c3-4b3a-ba98-73a5c1a88e2b
 
-## 5 Pulse Effect
+## 5 Pulse Outline
 
 Shader creates a visual pulse in size and outline effect on objects.
 
