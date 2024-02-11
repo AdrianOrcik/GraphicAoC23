@@ -2,30 +2,30 @@
 
 ## Table of Contents
 
-1. [Gradient Sky](#gradient-sky) ✅
-2. [Water Ripple Effect](#water-ripple-effect) ✅
-3. [Basic Light Shader](#basic-light-shader) ✅
-4. [Outline Shader](#outline-shader) ✅
-5. [Pulse Outline](#pulse-outline) ✅
-6. [Frosted Glass](#frosted-glass) ✅
-7. [Rainbow Shader](#rainbow-shader) ✅
-8. [Simple Wave](#simple-wave) ✅
-9. [Texture Blending](#texture-blending) ✅
-10. [Bump Mapping](#bump-mapping) ✅
-11. [Cel Shading](#cel-shading) ✅
-12. [Sunset Horizon](#sunset-horizon) ❌
-13. [Star Twinkling](#star-twinkling) ✅
-14. [Heat Haze Effect](#heat-haze-effect) ✅
-15. [Vignette Effect](#vignette-effect) ✅
-16. [Motion Blur](#motion-blur) ✅
-17. [Stencil-Based Object Highlighting](#stencil-based-object-highlighting) ✅
-18. [Depth Offset for Decals](#depth-offset-for-decals) ✅
-19. [Advanced Stencil Techniques for Portals](#advanced-stencil-techniques-for-portals) ✅
-20. [ZTest and ZWrite for X-Ray Vision](#ztest-and-zwrite-for-x-ray-vision) ✅
-21. [Stencil Buffer for Dynamic Shadows](#stencil-buffer-for-dynamic-shadows) ✅
-22. [ZClip for Clipping Effects](#zclip-for-clipping-effects) ✅
-23. [Depth-Based Effects for Water Surface](#depth-based-effects-for-water-surface) ✅
-24. [Offset and Stencil for Smooth Curve Visualization](#offset-and-stencil-for-smooth-curve-visualization) ✅
+1. [Gradient Sky](#1-gradient-sky) ✅
+2. [Water Ripple Effect](#2-water-ripple-effect) ✅
+3. [Basic Light Shader](#3-basic-light-shader) ✅
+4. [Outline Shader](#4-outline-shader) ✅
+5. [Pulse Outline](#5-pulse-outline) ✅
+6. [Frosted Glass](#6-frosted-glass) ✅
+7. [Rainbow Shader](#7-rainbow-shader) ✅
+8. [Simple Wave](#8-simple-wave) ✅
+9. [Texture Blending](#9-texture-blending) ✅
+10. [Bump Mapping](#10-bump-mapping) ✅
+11. [Cel Shading](#11-cel-shading) ✅
+12. [Sunset Horizon](#12-sunset-horizon) ❌
+13. [Star Twinkling](#13-star-twinkling) ✅
+14. [Heat Haze Effect](#14-heat-haze-effect) ✅
+15. [Vignette Effect](#15-vignette-effect) ✅
+16. [Motion Blur](#16-motion-blur) ✅
+17. [Stencil-Based Object Highlighting](#17-stencil-based-object-highlighting) ✅
+18. [Depth Offset for Decals](#18-depth-offset-for-decals) ✅
+19. [Advanced Stencil Techniques for Portals](#19-advanced-stencil-techniques-for-portals) ✅
+20. [ZTest and ZWrite for X-Ray Vision](#20-ztest-and-zwrite-for-x-ray-vision) ✅
+21. [Stencil Buffer for Dynamic Shadows](#21-stencil-buffer-for-dynamic-shadows) ✅
+22. [ZClip for Clipping Effects](#22-zclip-for-clipping-effects) ✅
+23. [Depth-Based Effects for Water Surface](#23-depth-based-effects-for-water-surface) ✅
+24. [Offset and Stencil for Smooth Curve Visualization](#24-offset-and-stencil-for-smooth-curve-visualization) ✅
 
 ## 1 Gradient Sky
 
