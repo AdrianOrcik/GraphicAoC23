@@ -2,30 +2,30 @@
 
 ## Table of Contents
 
-1. [Gradient Sky](#gradient-sky)
-2. [Water Ripple Effect](#water-ripple-effect)
-3. [Basic Light Shader](#basic-light-shader)
-4. [Outline Shader](#outline-shader)
-5. [Pulse Effect](#pulse-effect)
-6. [Frosted Glass](#frosted-glass)
-7. [Rainbow Shader](#rainbow-shader)
-8. [Simple Wave](#simple-wave)
-9. [Texture Blending](#texture-blending)
-10. [Bump Mapping](#bump-mapping)
-11. [Cel Shading](#cel-shading)
-12. [Sunset Horizon](#sunset-horizon)
-13. [Star Twinkling](#star-twinkling)
-14. [Heat Haze Effect](#heat-haze-effect)
-15. [Vignette Effect](#vignette-effect)
-16. [Motion Blur](#motion-blur)
-17. [Stencil-Based Object Highlighting](#stencil-based-object-highlighting)
-18. [Depth Offset for Decals](#depth-offset-for-decals)
-19. [Advanced Stencil Techniques for Portals](#advanced-stencil-techniques-for-portals)
-20. [ZTest and ZWrite for X-Ray Vision](#ztest-and-zwrite-for-x-ray-vision)
-21. [Stencil Buffer for Dynamic Shadows](#stencil-buffer-for-dynamic-shadows)
-22. [ZClip for Clipping Effects](#zclip-for-clipping-effects)
-23. [Depth-Based Effects for Water Surface](#depth-based-effects-for-water-surface)
-24. [Offset and Stencil for Smooth Curve Visualization](#offset-and-stencil-for-smooth-curve-visualization)
+1. [D1 Gradient Sky](#gradient-sky)
+2. [D2 Water Ripple Effect](#water-ripple-effect)
+3. [D3 Basic Light Shader](#basic-light-shader)
+4. [D4 Outline Shader](#outline-shader)
+5. [D5 Pulse Effect](#pulse-effect)
+6. [D6 Frosted Glass](#frosted-glass)
+7. [D7 Rainbow Shader](#rainbow-shader)
+8. [D8 Simple Wave](#simple-wave)
+9. [D9 Texture Blending](#texture-blending)
+10. [D10 Bump Mapping](#bump-mapping)
+11. [D11 Cel Shading](#cel-shading)
+12. [D12 Sunset Horizon](#sunset-horizon)
+13. [D13 Star Twinkling](#star-twinkling)
+14. [D14 Heat Haze Effect](#heat-haze-effect)
+15. [D15 Vignette Effect](#vignette-effect)
+16. [D16 Motion Blur](#motion-blur)
+17. [D17 Stencil-Based Object Highlighting](#stencil-based-object-highlighting)
+18. [D18 Depth Offset for Decals](#depth-offset-for-decals)
+19. [D19 Advanced Stencil Techniques for Portals](#advanced-stencil-techniques-for-portals)
+20. [D20 ZTest and ZWrite for X-Ray Vision](#ztest-and-zwrite-for-x-ray-vision)
+21. [D21 Stencil Buffer for Dynamic Shadows](#stencil-buffer-for-dynamic-shadows)
+22. [D22 ZClip for Clipping Effects](#zclip-for-clipping-effects)
+23. [D23 Depth-Based Effects for Water Surface](#depth-based-effects-for-water-surface)
+24. [D24 Offset and Stencil for Smooth Curve Visualization](#offset-and-stencil-for-smooth-curve-visualization)
 
 ## Gradient Sky
 
@@ -41,8 +41,6 @@ https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/4dbc008f-6377-4c95-b
 
 ## Basic Light Shader
 
-//TODO: Add advanced lighting
-
 Simple 2D lighting effects, including ambient, directional and point light on a 2D sprite.
 
 https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/9a93a36d-7750-4a7f-9c57-abbf86eb8e4f
@@ -50,6 +48,8 @@ https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/9a93a36d-7750-4a7f-9
 https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/6b7edcbc-d6ac-45a4-88b1-fbf9445896ae
 
 https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/2e7611ab-6d14-44f7-88d8-7cdd3d3d31a3
+
+https://github.com/AdrianOrcik/GraphicAoC23/assets/14979589/711da5ab-f67c-43d4-8ab8-c782e6ca1bee
 
 ## Outline Shader
 
